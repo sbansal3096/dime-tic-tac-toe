@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">dime tic-tac-toe</string>
+<string name="box1">box1</string>
+<string name="box2">box2</string>
+<string name="box3">box3</string>
+<string name="box4">box4</string>
+<string name="box5">box5</string>
+<string name="box6">box6</string>
+<string name="box7">box7</string>
+<string name="box8">box8</string>
+<string name="box9">box9</string>
+<string name="title_activity_main2">Main2Activity</string>
+</resources>
